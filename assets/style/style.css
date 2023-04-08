@@ -100,6 +100,7 @@ input:focus {
     justify-content: center;
     align-items: center;
     gap: 20px;
+    overflow: hidden;
 }
 .navbar .container .content .ul > ul {
     display: flex;
